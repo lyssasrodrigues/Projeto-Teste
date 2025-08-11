@@ -113,9 +113,3 @@ npm run dev
 * O projeto é **apenas para fins educacionais**.
 
 ---
-
-## 📄 Licença
-
-Este projeto é de uso livre para fins **educacionais e de aprendizado**.
-
-```
