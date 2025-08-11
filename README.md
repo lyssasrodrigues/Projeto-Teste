@@ -11,7 +11,7 @@ Aplicação simples que coleta os produtos da **primeira página** de resultados
 ---
 
 ## 📂 Estrutura do Projeto
-```
+
 
 amazon-scraper-backend/
 ├── index.js          # Código do servidor backend (API)
@@ -25,7 +25,6 @@ amazon-scraper-frontend/
 ├── package.json
 └── ...
 
-````
 
 ---
 
