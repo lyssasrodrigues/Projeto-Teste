@@ -1,6 +1,3 @@
-Segue o **README.md** já limpo e formatado para você colar direto no repositório, sem quebras ou problemas de markdown.
-
----
 
 ```markdown
 # 📦 Amazon Product Scraper
